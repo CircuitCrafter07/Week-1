@@ -1,7 +1,7 @@
 # Day 3: Combinational and Sequential Optimization
 
 Welcome to Day 3 of this workshop! Today we discuss optimization of combinational and sequential circuits, introducing techniques to enhance efficiency and performance.
-
+One special thing is that we have made a generalized synthesis .tcl file to automate the synthesis process and make a netlist file 
 ---
 
 ## Table of Contents
