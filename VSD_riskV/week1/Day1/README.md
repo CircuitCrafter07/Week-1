@@ -59,12 +59,4 @@ gtkwave tb_good_mux.vcd
 
 ### Example 1: 2:1 Multiplexer
 ```verilog
-module mux2to1 (
-    input  wire a,      // Input 0
-    input  wire b,      // Input 1
-    input  wire sel,    // Select line
-    output wire y       // Output
-);
-    assign y = (sel) ? b : a;
-endmodule
-
+mux2to1.v
