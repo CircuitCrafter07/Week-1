@@ -1,0 +1,6 @@
+read_verilog sub_module.v top_module.v
+hierarchy -check -top top_module
+flatten
+proc; opt; techmap
+show -format svg -prefix flattened_netlist
+write_verilog -norename flattened_netlist.v

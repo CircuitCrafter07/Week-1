@@ -1,0 +1,40 @@
+# -----------------------------------------------------------------------------
+# Yosys Synthesis Script for Hierarchical Netlist
+# -----------------------------------------------------------------------------
+#
+# This script reads a Verilog design, synthesizes it while preserving the
+# design hierarchy, and writes the hierarchical netlist.
+#
+# Usage: yosys -s synth.sy
+#
+# -----------------------------------------------------------------------------
+
+# --- Configuration ---
+# Set the name of your top-level module.
+set top_module top_module_name
+
+# Set the path to your Verilog design file(s).
+set verilog_files /home/harsh-shah/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/opt_check.v
+
+# Set the output file name for the synthesized netlist.
+set output_netlist /home/harsh-shah/week1/Day3/opt_netlist.v
+
+# --- Synthesis Flow ---
+
+# Reads the Verilog design file(s) into Yosys.
+read_verilog $verilog_files
+
+# Synthesizes the design, preserving the original hierarchy.
+# The 'synth' command is a high-level macro that runs a series of
+# internal passes (like proc, opt, techmap) to convert your RTL code
+# into a gate-level netlist.
+synth -top $top_module
+
+# Writes the final gate-level netlist to a Verilog file.
+# The '-noautoname' option prevents Yosys from renaming your top module.
+write_verilog -noautoname $output_netlist
+
+# Generates and prints a summary of the synthesized design.
+stat
+
+puts "Synthesis and hierarchy preservation process complete. Netlist saved to: $output_netlist"

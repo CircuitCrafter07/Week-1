@@ -1,0 +1,5 @@
+read_verilog sub_module.v top_module.v
+hierarchy -check -top top_module
+proc; opt; techmap
+show -format svg -prefix hierarchical_netlist top_module  # Visualize the top module
+write_verilog -norename hierarchical_netlist.v

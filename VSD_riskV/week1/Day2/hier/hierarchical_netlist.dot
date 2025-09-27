@@ -1,0 +1,33 @@
+digraph "top_module" {
+label="top_module";
+rankdir="LR";
+remincross=true;
+n1 [ shape=octagon, label="a", color="black", fontcolor="black"];
+n2 [ shape=octagon, label="b", color="black", fontcolor="black"];
+n3 [ shape=octagon, label="c", color="black", fontcolor="black"];
+n4 [ shape=octagon, label="d", color="black", fontcolor="black"];
+n5 [ shape=diamond, label="net1", color="black", fontcolor="black"];
+n6 [ shape=diamond, label="net2", color="black", fontcolor="black"];
+n7 [ shape=diamond, label="net3", color="black", fontcolor="black"];
+n8 [ shape=diamond, label="net4", color="black", fontcolor="black"];
+n9 [ shape=octagon, label="out_and", color="black", fontcolor="black"];
+n10 [ shape=octagon, label="out_or", color="black", fontcolor="black"];
+c14 [ shape=record, label="{{<p11> A|<p12> B}|$82\n$_AND_|{<p13> Y}}",  ];
+c15 [ shape=record, label="{{<p11> A|<p12> B}|$83\n$_OR_|{<p13> Y}}",  ];
+c18 [ shape=record, label="{{<p1> a|<p2> b}|instance1\nsub_module|{<p16> out1|<p17> out2}}",  ];
+c19 [ shape=record, label="{{<p1> a|<p2> b}|instance2\nsub_module|{<p16> out1|<p17> out2}}",  ];
+n1:e -> c18:p1:w [color="black", fontcolor="black", label=""];
+n1:e -> c19:p1:w [color="black", fontcolor="black", label=""];
+c15:p13:e -> n10:w [color="black", fontcolor="black", label=""];
+n2:e -> c18:p2:w [color="black", fontcolor="black", label=""];
+n2:e -> c19:p2:w [color="black", fontcolor="black", label=""];
+c18:p16:e -> n5:w [color="black", fontcolor="black", label=""];
+n5:e -> c14:p11:w [color="black", fontcolor="black", label=""];
+c18:p17:e -> n6:w [color="black", fontcolor="black", label=""];
+n6:e -> c15:p11:w [color="black", fontcolor="black", label=""];
+c19:p16:e -> n7:w [color="black", fontcolor="black", label=""];
+n7:e -> c14:p12:w [color="black", fontcolor="black", label=""];
+c19:p17:e -> n8:w [color="black", fontcolor="black", label=""];
+n8:e -> c15:p12:w [color="black", fontcolor="black", label=""];
+c14:p13:e -> n9:w [color="black", fontcolor="black", label=""];
+}

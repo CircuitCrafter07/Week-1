@@ -1,0 +1,60 @@
+$date
+	Fri Sep 26 10:18:06 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_incomp_if2 $end
+$var wire 1 ! y $end
+$var reg 1 " i0 $end
+$var reg 1 # i1 $end
+$var reg 1 $ i2 $end
+$var reg 1 % i3 $end
+$scope module uut $end
+$var wire 1 " i0 $end
+$var wire 1 # i1 $end
+$var wire 1 $ i2 $end
+$var wire 1 % i3 $end
+$var reg 1 ! y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0%
+0$
+0#
+0"
+x!
+$end
+#10000
+1!
+1#
+1"
+#20000
+0!
+1%
+0#
+#30000
+1!
+1$
+1#
+0"
+#40000
+0!
+0%
+0#
+#50000
+1%
+0$
+1#
+#60000
+0%
+0#
+#70000
