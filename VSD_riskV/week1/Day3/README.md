@@ -155,7 +155,7 @@ module opt_check4 (input a , input b , input c , output y);
 - Logic simplifies to:  
   `y = a ? c : !c`
 
-![Lab 4 Output](<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-10-29" src="https://github.com/user-attachments/assets/7a964926-90b8-43ea-8657-3ad7e904e584" />)
+![Lab 4 Output]([<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-10-29" src="https://github.com/user-attachments/assets/7a964926-90b8-43ea-8657-3ad7e904e584" />](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day3/Screenshot%20from%202025-09-23%2014-10-29.png))
 
 ---
 
@@ -180,7 +180,7 @@ endmodule
   - Asynchronous reset to 0
   - Loads constant `1` when not in reset
 
-![Lab 5 Output](<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-17-01" src="https://github.com/user-attachments/assets/a10f5516-4464-4dba-ae8c-3cf344a1f0dc" />)
+![Lab 5 Output]([<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-17-01" src="https://github.com/user-attachments/assets/a10f5516-4464-4dba-ae8c-3cf344a1f0dc" />](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day3/Screenshot%20from%202025-09-23%2014-17-01.png))
 
 ---
 
@@ -203,7 +203,7 @@ endmodule
 **Functionality:**
 - D flip-flop always sets output `q` to `1` (regardless of reset or clock).
 
-![Lab 6 Output](<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-18-24" src="https://github.com/user-attachments/assets/c3ea067e-1a16-4a67-b91f-f01e36b26901" />)
+![Lab 6 Output]([<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-18-24" src="https://github.com/user-attachments/assets/c3ea067e-1a16-4a67-b91f-f01e36b26901" />](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day3/Screenshot%20from%202025-09-23%2014-18-24.png))
 
 ---
 
