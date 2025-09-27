@@ -133,7 +133,7 @@ endmodule
 **Functionality:**  
 2-to-1 multiplexer; `y = a ? 1 : b` (outputs `1` when `a` is true, otherwise `b`).
 
-![Lab 3 Output](<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-07-31" src="https://github.com/user-attachments/assets/9b7fc8b5-706e-4629-b63b-fce324fd857b" />)
+![Lab 3 Output]([<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-07-31" src="https://github.com/user-attachments/assets/9b7fc8b5-706e-4629-b63b-fce324fd857b" />](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day3/Screenshot%20from%202025-09-23%2014-07-31.png))
 
 ---
 
