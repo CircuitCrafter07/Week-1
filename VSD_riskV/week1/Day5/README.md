@@ -161,7 +161,7 @@ endmodule
 
 ### Lab 6: Synthesis Result of Lab 5
 
-![compcase_synth](https://github.com/user-attachments/assets/8c871511-6e55-4e80-be11-86e9efd87cad)
+![compcase_synth](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day5/comp_case_nl.png)
 
 ---
 
@@ -183,7 +183,7 @@ always @(*) begin
 end
 endmodule
 ```
-![badcase](https://github.com/user-attachments/assets/4ccf37aa-5502-4750-bedb-9b2ec0748a53)
+![badcase](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day5/bad_case.png)
 
 ---
 
