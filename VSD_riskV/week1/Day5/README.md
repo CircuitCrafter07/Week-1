@@ -387,7 +387,7 @@ module fa (input a, input b, input c, output co, output sum);
     assign {co, sum} = a + b + c;
 endmodule
 ```
-![rca_org](https://github.com/user-attachments/assets/1d8876f9-e303-4a73-945e-97756a37bb73)
+![rca_org](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day5/rca%20.png)
 
 ---
 
