@@ -110,13 +110,13 @@ always @(*) begin
 end
 endmodule
 ```
-![in_comp_if](https://github.com/user-attachments/assets/91d1cc1d-bb3a-4ea8-a272-363414777868)
+![in_comp_if](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day5/incomp_if.png)
 
 ---
 
 ### Lab 2: Synthesis Result of Lab 1
 
-![incomp_synth](https://github.com/user-attachments/assets/691045e7-39e0-4e6c-98bd-511b501fbe35)
+![incomp_synth](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day5/incomp_if_nl.png)
 
 ---
 
@@ -132,7 +132,7 @@ always @(*) begin
 end
 endmodule
 ```
-![icomp2](https://github.com/user-attachments/assets/2f614956-e4af-4d29-80ae-13a167e7831d)
+![icomp2](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day5/incomp_if2.png)
 
 ---
 
@@ -155,7 +155,7 @@ always @(*) begin
 end
 endmodule
 ```
-![compcase](https://github.com/user-attachments/assets/cfe97c45-a487-4f06-b4a2-74b3a61bee14)
+![compcase](http://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day5/comp_case.png)
 
 ---
 
