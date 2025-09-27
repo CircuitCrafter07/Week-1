@@ -1,12 +1,12 @@
 # Day 4: Gate-Level Simulation (GLS), Blocking vs. Non-Blocking in Verilog, and Synthesis-Simulation Mismatch
 
-Welcome to Day 4 of the RTL Workshop! Today’s session focuses on three essential topics in digital design:
+Welcome to Day 4 of the RISK-V tapeout Workshop! 3rd’s session focuses on three essential topics in digital design:
 
 - **Gate-Level Simulation (GLS)**
 - **Blocking vs. Non-Blocking Assignments in Verilog**
 - **Synthesis-Simulation Mismatch**
 
-You’ll learn both the theory and practical implications, complete with hands-on labs to reinforce your understanding.
+We have learned both the theory and practical implications, complete with hands-on labs to reinforce your understanding.
 
 ---
 
