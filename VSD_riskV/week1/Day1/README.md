@@ -62,4 +62,4 @@ gtkwave tb_good_mux.vcd
 ```verilog
 mux2to1.v
 
-https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day1/Screenshot%20from%202025-09-21%2017-43-30.png
+<img width="1920" height="922" alt="Screenshot from 2025-09-21 17-43-30" src="https://github.com/user-attachments/assets/fea22646-3c62-451c-ba1e-5df355345415" />
