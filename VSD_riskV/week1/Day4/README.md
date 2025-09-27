@@ -111,7 +111,7 @@ endmodule
 ```
 - **Function:** `y = i1` if `sel = 1`; else `y = i0`.
 
-![lab1](https://github.com/user-attachments/assets/3f5eb05a-1861-4bb8-940c-6ff9f2af87fb)
+![lab1]([https://github.com/user-attachments/assets/3f5eb05a-1861-4bb8-940c-6ff9f2af87fb](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2010-30-36.png))
 
 ---
 
@@ -120,7 +120,7 @@ endmodule
 Synthesize the above MUX using Yosys.  
 _Follow the standard Yosys synthesis flow._
 
-![lab2](https://github.com/user-attachments/assets/7a0cdc7c-cbbd-4943-bd3d-130a0d66b9b1)
+![lab2]([https://github.com/user-attachments/assets/7a0cdc7c-cbbd-4943-bd3d-130a0d66b9b1](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2010-36-26.png))
 
 ---
 
@@ -133,7 +133,7 @@ Use this command (adjust paths as needed):
 iverilog /path/to/primitives.v /path/to/sky130_fd_sc_hd.v ternary_operator_mux.v testbench.v
 ```
 
-![lab3](https://github.com/user-attachments/assets/9acf45b3-2e42-4ac1-88ae-b4a494cc8d87)
+![lab3]([https://github.com/user-attachments/assets/9acf45b3-2e42-4ac1-88ae-b4a494cc8d87](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2010-46-45.png))
 
 ---
 
@@ -166,7 +166,7 @@ always @ (*) begin
 end
 ```
 
-![lab4](https://github.com/user-attachments/assets/4c2ede06-0605-4ff0-99cb-fc89844b89e4)
+![lab4]([https://github.com/user-attachments/assets/4c2ede06-0605-4ff0-99cb-fc89844b89e4](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2013-30-12.png))
 
 ---
 
@@ -175,7 +175,7 @@ end
 Perform GLS on the `bad_mux`.  
 Expect simulation mismatches or warnings due to above issues.
 
-![lab5](https://github.com/user-attachments/assets/2e698404-27b5-4c4a-a811-41b5fc13db77)
+![lab5][(https://github.com/user-attachments/assets/2e698404-27b5-4c4a-a811-41b5fc13db77](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2013-37-47.png))
 
 ---
 
@@ -205,7 +205,7 @@ always @ (*) begin
 end
 ```
 
-![lab6](https://github.com/user-attachments/assets/42cac594-0008-4c7b-b415-43e6565b6081)
+![lab6]([https://github.com/user-attachments/assets/42cac594-0008-4c7b-b415-43e6565b6081](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2013-47-22.png))
 
 ---
 
@@ -213,7 +213,7 @@ end
 
 Synthesize the corrected version of the module and observe the results.
 
-![lab7](https://github.com/user-attachments/assets/833bfacc-3b76-40fa-814c-47f0d783a6e0)
+![lab7]([https://github.com/user-attachments/assets/833bfacc-3b76-40fa-814c-47f0d783a6e0](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2013-49-20.png))
 
 ---
 
