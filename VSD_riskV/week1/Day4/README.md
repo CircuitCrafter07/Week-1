@@ -213,7 +213,7 @@ end
 
 Synthesize the corrected version of the module and observe the results.
 
-![lab7]([https://github.com/user-attachments/assets/833bfacc-3b76-40fa-814c-47f0d783a6e0](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2013-49-20.png))
+![lab7]([[https://github.com/user-attachments/assets/833bfacc-3b76-40fa-814c-47f0d783a6e0](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2013-49-20.png)](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2013-49-20.png))
 
 ---
 
