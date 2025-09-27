@@ -111,7 +111,7 @@ endmodule
 ```
 - **Function:** `y = i1` if `sel = 1`; else `y = i0`.
 
-![lab1]([https://github.com/user-attachments/assets/3f5eb05a-1861-4bb8-940c-6ff9f2af87fb](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2010-30-36.png))
+![lab1](<img width="1920" height="923" alt="Screenshot from 2025-09-24 10-30-36" src="https://github.com/user-attachments/assets/0cd535ef-698d-4b0d-b3e0-794d52efd524" />)
 
 ---
 
@@ -120,7 +120,7 @@ endmodule
 Synthesize the above MUX using Yosys.  
 _Follow the standard Yosys synthesis flow._
 
-![lab2](https://github.com/user-attachments/assets/7a0cdc7c-cbbd-4943-bd3d-130a0d66b9b1)
+![lab2](<img width="1920" height="923" alt="Screenshot from 2025-09-24 10-36-26" src="https://github.com/user-attachments/assets/c1d8a219-b7ca-4bf2-937a-bb4a658ac3ba" />)
 
 ---
 
