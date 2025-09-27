@@ -97,7 +97,8 @@ Follow the steps from [Day 1 Synthesis Lab](https://github.com/Ahtesham18112011/
 opt_clean -purge
 ```
 
-![Lab 1 Output](https://github.com/user-attachments/assets/4d224d8d-f6f5-4a37-9732-ab570b64e31e)
+![Lab 1 Output](<img width="1852" height="404" alt="Screenshot from 2025-09-23 13-19-24" src="https://github.com/user-attachments/assets/59fafdcd-d11a-446a-b0c3-ae4ae322ca49" />
+)
 
 ---
 
@@ -116,7 +117,8 @@ endmodule
   - `y = 1` if `a` is true.
   - `y = b` if `a` is false.
 
-![Lab 2 Output](https://github.com/user-attachments/assets/59545745-8a8b-4afd-b4d5-0a3ad1d5b80e)
+![<img width="1852" height="404" alt="Screenshot from 2025-09-23 13-31-49" src="https://github.com/user-attachments/assets/bd310847-e92a-4c44-8ed0-986346e6b8ca" />
+)
 
 ---
 
@@ -133,7 +135,8 @@ endmodule
 **Functionality:**  
 2-to-1 multiplexer; `y = a ? 1 : b` (outputs `1` when `a` is true, otherwise `b`).
 
-![Lab 3 Output](https://github.com/user-attachments/assets/157b16d3-cecd-441a-aacf-bae296910886)
+![Lab 3 Output](<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-07-31" src="https://github.com/user-attachments/assets/1717a270-c730-4378-8a00-98eef94f263e" />
+)
 
 ---
 
@@ -155,7 +158,8 @@ module opt_check4 (input a , input b , input c , output y);
 - Logic simplifies to:  
   `y = a ? c : !c`
 
-![Lab 4 Output](https://github.com/user-attachments/assets/08d1e447-78c6-47c4-8c99-239645b38617)
+![Lab 4 Output](<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-10-29" src="https://github.com/user-attachments/assets/7a964926-90b8-43ea-8657-3ad7e904e584" />
+)
 
 ---
 
@@ -180,7 +184,8 @@ endmodule
   - Asynchronous reset to 0
   - Loads constant `1` when not in reset
 
-![Lab 5 Output](https://github.com/user-attachments/assets/a42fac06-a092-4efc-be39-33b263caaaa1)
+![Lab 5 Output](<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-17-01" src="https://github.com/user-attachments/assets/a10f5516-4464-4dba-ae8c-3cf344a1f0dc" />
+)
 
 ---
 
@@ -203,7 +208,8 @@ endmodule
 **Functionality:**
 - D flip-flop always sets output `q` to `1` (regardless of reset or clock).
 
-![Lab 6 Output](https://github.com/user-attachments/assets/ae45f7db-0a7f-4256-b43b-01cc4a1588f7)
+![Lab 6 Output](<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-18-24" src="https://github.com/user-attachments/assets/c3ea067e-1a16-4a67-b91f-f01e36b26901" />
+)
 
 ---
 
