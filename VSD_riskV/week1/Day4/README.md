@@ -111,7 +111,7 @@ endmodule
 ```
 - **Function:** `y = i1` if `sel = 1`; else `y = i0`.
 
-![lab1](<img width="1920" height="923" alt="Screenshot from 2025-09-24 10-30-36" src="https://github.com/user-attachments/assets/0cd535ef-698d-4b0d-b3e0-794d52efd524" />)
+![lab1](VSD_riskV/week1/Day4/Screenshot from 2025-09-24 10-30-36.png)
 
 ---
 
