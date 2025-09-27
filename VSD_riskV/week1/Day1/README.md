@@ -32,7 +32,8 @@ The **design** is your Verilog code describing the intended logic functionality.
 A **testbench** is a simulation environment that applies various inputs to your design and checks if the outputs are correct.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/93927b96-df80-4da5-b801-284fc2cc6757" alt="Design & Testbench Overview" width="70%">
+  <<img width="1920" height="922" alt="Screenshot from 2025-09-21 17-43-30" src="https://github.com/user-attachments/assets/7ce9234b-4194-4624-ba59-75d336af3144" />
+>
 </div>
 
 ---
@@ -89,7 +90,8 @@ gtkwave tb_good_mux.vcd
 ```
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/701e8189-3101-4a82-8134-e799521b9a8b" alt="GTKWave Example" width="70%">
+  <<img width="1849" height="577" alt="Screenshot from 2025-09-21 18-05-15" src="https://github.com/user-attachments/assets/edcc5f91-544b-48ab-9f09-6633194922dd" />
+>
 </div>
 
 ---
@@ -189,10 +191,10 @@ Let’s synthesize the `good_mux` design using Yosys!
 
 ## 7. Summary
 
-- You learned about simulators, designs, and testbenches.
-- You ran your first Verilog simulation with iverilog and visualized waveforms.
-- You analyzed the 2-to-1 mux code.
-- You explored Yosys and learned why gate libraries have various flavors.
+- We learned about open source simulators, designs, and testbenches.
+- We ran our first Verilog simulation with Iverilog and visualized waveforms.
+- We analyzed the 2-to-1 mux code.
+- We explored Yosys and learned why gate libraries have various flavors.
 
 
 ---
