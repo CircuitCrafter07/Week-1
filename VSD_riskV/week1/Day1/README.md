@@ -60,3 +60,4 @@ gtkwave tb_good_mux.vcd
 ### Example 1: 2:1 Multiplexer
 ```verilog
 mux2to1.v
+https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day1/Screenshot%20from%202025-09-21%2017-43-30.png
