@@ -210,7 +210,7 @@ always @(*) begin
 end
 endmodule
 ```
-![Screenshot_2025-05-28_12-39-30](https://github.com/user-attachments/assets/3f6068f3-726d-4192-b3cd-f88b3611e752)
+![Screenshot_2025-05-28_12-39-30](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day5/partial_case_assign.png)
 
 > **Note:** Steps to perform the above labs are shown in [Day 1](https://github.com/Ahtesham18112011/RTL_workshop/tree/main/Day_1).
 
@@ -298,7 +298,7 @@ always @(*) begin
 end
 endmodule
 ```
-![mux_generate](https://github.com/user-attachments/assets/80789638-c349-44a9-92f4-7597d5925c63)
+![mux_generate](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day5/mux_generate%20.png)
 
 ---
 
@@ -328,7 +328,7 @@ always @(*) begin
 end
 endmodule
 ```
-![demux-case](https://github.com/user-attachments/assets/1836a255-e260-47de-9a8e-45899b19fc03)
+![demux-case](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day5/demux_case%20.png)
 
 ---
 
@@ -353,7 +353,7 @@ always @(*) begin
 end
 endmodule
 ```
-![demux-generate](https://github.com/user-attachments/assets/a5a2c004-a16f-44cd-8d80-c23f1c932e6c)
+![demux-generate](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day5/demux_generate%20.png)
 
 ---
 
