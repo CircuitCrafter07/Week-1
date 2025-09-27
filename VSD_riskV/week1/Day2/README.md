@@ -38,7 +38,7 @@ Welcome to Day 2 of the RTL Workshop. This day covers three crucial topics:
 
 ### SKY130 PDK Overview
 
-The SKY130 PDK is an open-source Process Design Kit based on SkyWater Technology's 130nm CMOS technology. It provides essential models and libraries for integrated circuit (IC) design, including timing, power, and process variation information.
+The SKY130 PDK is an open-source process design kit (PDK) based on SkyWater Technology's 130nm CMOS technology. It provides essential models and libraries for integrated circuit (IC) design, including timing, power, and process variation information.
 
 ### Decoding tt_025C_1v80 in the SKY130 PDK
 
@@ -62,7 +62,7 @@ To open the sky130_fd_sc_hd__tt_025C_1v80.lib file:
    ```shell
    gedit sky130_fd_sc_hd__tt_025C_1v80.lib
    ```
- ![Screenshot_2025-05-29_11-43-13](https://github.com/user-attachments/assets/0c31ddf8-8a95-44a4-acaa-e1c5f0518425)
+ ![<img width="1920" height="923" alt="Screenshot from 2025-09-22 09-31-45" src="https://github.com/user-attachments/assets/55099d54-c09a-45bf-b1c4-7e49b4d7a222" />)
 
 
 ---
