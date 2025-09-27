@@ -7,6 +7,7 @@ Welcome to Day 4 of the RISK-V tapeout Workshop! 3rd’s session focuses on thre
 - **Synthesis-Simulation Mismatch**
 
 We have learned both the theory and practical implications, complete with hands-on labs to reinforce your understanding.
+One special thing is that we have made a generalized synthesis .tcl file to automate the synthesis process and make a netlist file 
 
 ---
 
