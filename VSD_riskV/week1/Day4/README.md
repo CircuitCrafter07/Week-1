@@ -111,7 +111,7 @@ endmodule
 ```
 - **Function:** `y = i1` if `sel = 1`; else `y = i0`.
 
-![lab1](https://github.com/user-attachments/assets/3f5eb05a-1861-4bb8-940c-6ff9f2af87fb)
+![lab1]([https://github.com/user-attachments/assets/3f5eb05a-1861-4bb8-940c-6ff9f2af87fb](https://github.com/CircuitCrafter07/Week-1/blob/main/VSD_riskV/week1/Day4/Screenshot%20from%202025-09-24%2010-30-36.png))
 
 ---
 
