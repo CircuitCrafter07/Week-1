@@ -1,6 +1,7 @@
 # Day 5: Optimization in Synthesis
 
-Welcome to Day 5 of the RTL workshop! Today, we will cover optimization in Verilog synthesis, focusing on `if-else` statements, `for` loops, generate blocks, and explore how improper coding can lead to inferred latches. Labs are included for hands-on experience.
+Welcome to Day 5 of the RISK-V tapeout workshop! Today, we have covered optimization in Verilog synthesis, focusing on `if-else` statements, `for` loops, generate blocks, and exploring how improper coding can lead to inferred latches. Labs are included for hands-on experience.
+One special thing is that we have made a generalized synthesis .tcl file to automate the synthesis process and make a netlist file 
 
 ---
 ## Contents
