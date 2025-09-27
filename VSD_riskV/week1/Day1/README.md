@@ -54,7 +54,7 @@ View the waveform:
 
 gtkwave tb_good_mux.vcd
 
-
+---
 ## Verilog Basics
 
 ### Example 1: 2:1 Multiplexer
