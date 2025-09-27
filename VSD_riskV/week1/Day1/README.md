@@ -90,7 +90,8 @@ gtkwave tb_good_mux.vcd
 ```
 
 <div align="center">
-  <<img width="1849" height="577" alt="Screenshot from 2025-09-21 18-05-15" src="https://github.com/user-attachments/assets/edcc5f91-544b-48ab-9f09-6633194922dd" />
+  <<<img width="1920" height="922" alt="Screenshot from 2025-09-21 17-43-30" src="https://github.com/user-attachments/assets/17d758c9-6f70-4ceb-ba7f-1a9a8cacf86e" />
+" />
 >
 </div>
 
