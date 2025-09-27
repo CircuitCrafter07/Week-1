@@ -37,18 +37,6 @@ The simulator produces a .vcd file for waveform viewing in GTKWave.
 ---
 3. Lab: Simulating a 2-to-1 Multiplexer
 Let’s simulate a simple 2-to-1 multiplexer using iverilog!
-## Verilog Basics
-
-### Example 1: 2:1 Multiplexer
-```verilog
-module mux2to1 (
-    input  wire a,      // Input 0
-    input  wire b,      // Input 1
-    input  wire sel,    // Select line
-    output wire y       // Output
-);
-    assign y = (sel) ? b : a;
-endmodule
 --
 Step 1: Clone the Workshop Repository
 git clone https://github.com/kunalg123/sky130RTLDesignAndSynthesisWorkshop.git
@@ -66,4 +54,18 @@ Run the simulation:
 View the waveform:
 
 gtkwave tb_good_mux.vcd
+
+
+## Verilog Basics
+
+### Example 1: 2:1 Multiplexer
+```verilog
+module mux2to1 (
+    input  wire a,      // Input 0
+    input  wire b,      // Input 1
+    input  wire sel,    // Select line
+    output wire y       // Output
+);
+    assign y = (sel) ? b : a;
+endmodule
 
