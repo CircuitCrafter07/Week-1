@@ -133,7 +133,7 @@ endmodule
 **Functionality:**  
 2-to-1 multiplexer; `y = a ? 1 : b` (outputs `1` when `a` is true, otherwise `b`).
 
-![Lab 3 Output](<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-07-31" src="https://github.com/user-attachments/assets/1717a270-c730-4378-8a00-98eef94f263e" />)
+![Lab 3 Output](<img width="1920" height="923" alt="Screenshot from 2025-09-23 14-07-31" src="https://github.com/user-attachments/assets/9b7fc8b5-706e-4629-b63b-fce324fd857b" />)
 
 ---
 
